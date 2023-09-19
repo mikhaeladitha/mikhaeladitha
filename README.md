@@ -1,5 +1,5 @@
-Hi, I’m Mikhael Aditha Sembiring Meliala from Indonesia
-Interested in AI and Data Science
+- Hi, I’m Mikhael Aditha Sembiring Meliala from Indonesia
+- Interested in AI and Data Science
 
 Please reach me through adithamikhael@gmail.com
 
